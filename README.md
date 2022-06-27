@@ -1,1 +1,1 @@
-Abre o APPIMAGE
+### Setup Discord Better
